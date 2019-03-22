@@ -1,2 +1,2 @@
-# ConfigFiles
-Misc. files to configure programs for improved usability.
+### ConfigFiles
+Most of these are just for when I switch PCs and have to reset stuff. Use them if you like.
