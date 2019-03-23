@@ -1,0 +1,12 @@
+#keybinding shortcuts c++, use in conjunction with init.coffee (Atom)
+'atom-text-editor':
+    'alt-p': 'custom:insert-cout'
+    'alt-r': 'custom:insert-return'
+    'alt-n': 'custom:insert-nullptr'
+    'alt-1': 'custom:insert-header'
+    'alt-c': 'custom:insert-commentblock'
+    'alt-t': 'custom:insert-temp'
+    'alt-a': 'custom:insert-assert'
+    'alt-b': 'custom:insert-badDebug'
+    'alt-d': 'custom:insert-delete'
+    'alt-f': 'custom:insert-for'
